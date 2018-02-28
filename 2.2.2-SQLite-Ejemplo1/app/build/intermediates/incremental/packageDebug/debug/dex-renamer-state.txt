@@ -1,0 +1,4 @@
+#Wed Feb 28 10:48:29 MST 2018
+base.0=/home/puga/Documentos/AplicacionesMoviles/2.2.2-SQLite-Ejemplo1/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
