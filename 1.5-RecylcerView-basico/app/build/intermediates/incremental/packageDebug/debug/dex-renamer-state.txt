@@ -1,0 +1,4 @@
+#Tue Feb 27 09:10:13 MST 2018
+base.0=/home/puga/Documentos/AplicacionesMoviles/1.5 - RecylcerView basico/app/build/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex

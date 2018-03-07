@@ -1,0 +1,4 @@
+#Tue Feb 27 09:06:11 MST 2018
+base.0=/home/puga/Documentos/AplicacionesMoviles/1.6-Proyecto-ReyclerView-Cardview/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Sun Feb 25 23:24:24 MST 2018
+base.0=/home/puga/Documentos/AplicacionesMoviles/1.1-ComponentesBasicos/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

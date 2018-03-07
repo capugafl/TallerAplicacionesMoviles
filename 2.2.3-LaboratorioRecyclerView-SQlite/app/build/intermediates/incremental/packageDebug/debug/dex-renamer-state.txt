@@ -1,0 +1,4 @@
+#Wed Mar 07 09:37:26 MST 2018
+base.0=/home/puga/Documentos/RecycleBDD/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

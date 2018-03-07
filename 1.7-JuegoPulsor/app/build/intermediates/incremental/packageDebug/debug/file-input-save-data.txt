@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Feb 26 09:33:37 MST 2018
+0.baseType=DIRECTORY
+0.base=/home/puga/Descargas/AplicacionesMoviles-master/13Pulsor/app/build/intermediates/transforms/dexMerger/debug/18
+0.path=classes.dex
+0.set=DEX
+count=1

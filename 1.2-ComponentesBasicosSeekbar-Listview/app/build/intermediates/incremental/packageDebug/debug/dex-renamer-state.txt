@@ -1,0 +1,4 @@
+#Mon Feb 26 07:05:31 MST 2018
+base.0=/home/puga/Documentos/AplicacionesMoviles/1.2-ComponentesBasicos(Seekbar-Listview)/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
