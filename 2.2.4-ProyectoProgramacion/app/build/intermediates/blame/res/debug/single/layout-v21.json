@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/puga/Descargas/ProyecoU2_Medico-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/puga/Descargas/ProyecoU2_Medico-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/puga/Descargas/ProyecoU2_Medico-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/puga/Descargas/ProyecoU2_Medico-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

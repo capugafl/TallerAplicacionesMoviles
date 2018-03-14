@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/puga/.android/build-cache/9e59e18eb4d7f1b3ca51f0d45047dfa9f47d70f4/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/puga/.android/build-cache/71c31e3da30d79493817f7fc801eae045d43faaf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/puga/.android/build-cache/aff13d9aa07e1bafe17d8e6a3e0625f2d58dead4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/puga/.android/build-cache/8f454821ee4b8b0c429db109764ddc5cf71f1b5e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/puga/.android/build-cache/512684efed64b0aff95bfe9796a290f8af1fe418/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/puga/.android/build-cache/929ba864eb5c2edbabac407568aad4daaef13658/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/puga/.android/build-cache/c426adefedfc7a267ba5c70f33a96f78652217b7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/puga/.android/build-cache/94293f4d07511154ea698dc978da74a2fc82d3ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/puga/.android/build-cache/afc1ea770ef4f089b95b643c76a9872389b71ac9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/puga/.android/build-cache/fd4107bc2b214c02cbeb49e17cb68a912f77ade8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/puga/.android/build-cache/b1c90fc92d2f6baeaa722e744f63cc5c56780221/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.puga.ProyectoDeProgramacion.Pacientes
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:13:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.puga.ProyectoDeProgramacion.Medicamento
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:22:9-25:59
+	android:label
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:24:13-63
+	android:theme
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:23:13-79
+activity#com.example.puga.ProyectoDeProgramacion.addupPaciente
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:26:9-90
+	android:name
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:26:19-87
+activity#com.example.puga.ProyectoDeProgramacion.addupMedicamento
+ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:27:9-93
+	android:name
+		ADDED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml:27:19-90
+uses-sdk
+INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/puga/.android/build-cache/9e59e18eb4d7f1b3ca51f0d45047dfa9f47d70f4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/puga/.android/build-cache/71c31e3da30d79493817f7fc801eae045d43faaf/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/puga/.android/build-cache/aff13d9aa07e1bafe17d8e6a3e0625f2d58dead4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/puga/.android/build-cache/8f454821ee4b8b0c429db109764ddc5cf71f1b5e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/puga/.android/build-cache/54b6acb1a01bdfadcdcd2070244e534d80ebc605/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/puga/.android/build-cache/512684efed64b0aff95bfe9796a290f8af1fe418/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/puga/.android/build-cache/929ba864eb5c2edbabac407568aad4daaef13658/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/puga/.android/build-cache/c426adefedfc7a267ba5c70f33a96f78652217b7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/puga/.android/build-cache/94293f4d07511154ea698dc978da74a2fc82d3ed/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/puga/.android/build-cache/afc1ea770ef4f089b95b643c76a9872389b71ac9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/puga/.android/build-cache/fd4107bc2b214c02cbeb49e17cb68a912f77ade8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/puga/.android/build-cache/b1c90fc92d2f6baeaa722e744f63cc5c56780221/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/puga/.android/build-cache/71c31e3da30d79493817f7fc801eae045d43faaf/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/puga/.android/build-cache/71c31e3da30d79493817f7fc801eae045d43faaf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/puga/.android/build-cache/fa8074c0313769c70f77d0db045e9d6573672768/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/puga/.android/build-cache/aff13d9aa07e1bafe17d8e6a3e0625f2d58dead4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/puga/.android/build-cache/8f454821ee4b8b0c429db109764ddc5cf71f1b5e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/puga/.android/build-cache/54b6acb1a01bdfadcdcd2070244e534d80ebc605/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/puga/.android/build-cache/512684efed64b0aff95bfe9796a290f8af1fe418/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/puga/.android/build-cache/929ba864eb5c2edbabac407568aad4daaef13658/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/puga/.android/build-cache/c426adefedfc7a267ba5c70f33a96f78652217b7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/puga/.android/build-cache/94293f4d07511154ea698dc978da74a2fc82d3ed/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/puga/.android/build-cache/afc1ea770ef4f089b95b643c76a9872389b71ac9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/puga/.android/build-cache/fd4107bc2b214c02cbeb49e17cb68a912f77ade8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/puga/.android/build-cache/b1c90fc92d2f6baeaa722e744f63cc5c56780221/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/puga/.android/build-cache/71c31e3da30d79493817f7fc801eae045d43faaf/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/puga/.android/build-cache/71c31e3da30d79493817f7fc801eae045d43faaf/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/puga/Descargas/ProyecoU2_Medico-master/app/build/intermediates/res/merged/debug/menu/menu_detalle_persona.xml",
+        "source": "/home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/res/menu/menu_detalle_persona.xml"
+    },
+    {
+        "merged": "/home/puga/Descargas/ProyecoU2_Medico-master/app/build/intermediates/res/merged/debug/menu/menu_pacientes.xml",
+        "source": "/home/puga/Descargas/ProyecoU2_Medico-master/app/src/main/res/menu/menu_pacientes.xml"
+    }
+]
