@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "401047514344",
+    "firebase_url": "https://fir-loginbd-b8ac1.firebaseio.com",
+    "project_id": "fir-loginbd-b8ac1",
+    "storage_bucket": "fir-loginbd-b8ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401047514344:android:57a13328eae0fe7f",
+        "android_client_info": {
+          "package_name": "com.example.juan.firebaseloginbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401047514344-p818lkm3vh6c1d5cbmd58bji86v5kigl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_K8h8aMKhTFBM_w4GuftqN_5kiEfl-KY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
